@@ -1,2 +1,2 @@
-# Mapeo funciones variable en compleja
+# Mapeo de funciones en variable compleja
 
